@@ -1,0 +1,16 @@
+C:\Users\porti\source\repos\TP2_vb\bin\Debug\TP2_vb.exe.config
+C:\Users\porti\source\repos\TP2_vb\bin\Debug\TP2_vb.exe
+C:\Users\porti\source\repos\TP2_vb\bin\Debug\TP2_vb.pdb
+C:\Users\porti\source\repos\TP2_vb\bin\Debug\TP2_vb.xml
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.vbproj.AssemblyReference.cache
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.Resources.resources
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.vbproj.GenerateResource.cache
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.vbproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.exe
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.xml
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.pdb
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.Clientes.resources
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.Login.resources
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.Menu_Principal.resources
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.Proveedores.resources
+C:\Users\porti\source\repos\TP2_vb\obj\Debug\TP2_vb.Usuarios.resources
